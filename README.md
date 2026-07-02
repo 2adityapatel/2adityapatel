@@ -12,7 +12,7 @@
 
 ---
 
-Associate Software Engineer (Blockchain) at Theta Technolabs — 1+ year building backend systems and smart contracts in production. Currently deepening my AI/LLM stack (RAG, agentic systems) on top of that backend foundation.
+Blockchain & backend engineer — spent Dec 2024–May 2026 at Theta Technolabs (intern → Associate Software Engineer) building production backend systems and smart contracts. Now deepening my AI/LLM stack (RAG, agentic systems) on top of that foundation.
 
 Grinding DSA daily — **50+ LeetCode problems solved**, tracked publicly in `leetcode_journey`.
 
@@ -26,7 +26,7 @@ Grinding DSA daily — **50+ LeetCode problems solved**, tracked publicly in `le
 
 **Blockchain:** ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) ![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white) ![Ethers.js](https://img.shields.io/badge/-Ethers.js-2535A0?style=flat-square) ![Foundry](https://img.shields.io/badge/-Foundry-000000?style=flat-square)
 
-**AI / Currently learning:** ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) `RAG` `Agentic AI`
+**AI / Currently learning:** ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-4B5563?style=flat-square) ![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-4B5563?style=flat-square)
 
 ---
 
@@ -46,6 +46,6 @@ Grinding DSA daily — **50+ LeetCode problems solved**, tracked publicly in `le
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2adityapatel&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2adityapatel&show_icons=true&theme=default&hide_border=true&cache_seconds=86400)
 
 </div>
